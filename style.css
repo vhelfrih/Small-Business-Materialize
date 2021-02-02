@@ -15,3 +15,12 @@ main {
 #footer{
   height: 6rem !important;
 }
+
+.parallax-container {
+  height: 500px;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
